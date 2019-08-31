@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "additional_enemies.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 388,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gator-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "gator-preview.gif",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "enemy-death-1-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 7,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 48,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "enemy-death-1-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 7,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 18,
+						"y": 48,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "star-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 35,
+						"y": 48,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "gator-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 12,
+						"w": 39,
+						"h": 32
+					},
+					"frame": {
+						"x": 39,
+						"y": 1,
+						"w": 39,
+						"h": 32
+					}
+				},
+				{
+					"filename": "bee-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 29,
+						"h": 27
+					},
+					"frame": {
+						"x": 50,
+						"y": 35,
+						"w": 29,
+						"h": 27
+					}
+				},
+				{
+					"filename": "gator-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 12,
+						"w": 37,
+						"h": 31
+					},
+					"frame": {
+						"x": 80,
+						"y": 1,
+						"w": 37,
+						"h": 31
+					}
+				},
+				{
+					"filename": "enemy-death-1-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 29
+					},
+					"frame": {
+						"x": 81,
+						"y": 34,
+						"w": 31,
+						"h": 29
+					}
+				},
+				{
+					"filename": "enemy-death-1-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 29
+					},
+					"frame": {
+						"x": 114,
+						"y": 34,
+						"w": 31,
+						"h": 29
+					}
+				},
+				{
+					"filename": "bee-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "bee-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 147,
+						"y": 33,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "bee-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 151,
+						"y": 1,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "enemy-death-1-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 179,
+						"y": 32,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "bee-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 29,
+						"h": 27
+					},
+					"frame": {
+						"x": 183,
+						"y": 1,
+						"w": 29,
+						"h": 27
+					}
+				},
+				{
+					"filename": "bee-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 27,
+						"h": 32
+					},
+					"frame": {
+						"x": 211,
+						"y": 30,
+						"w": 27,
+						"h": 32
+					}
+				},
+				{
+					"filename": "bee-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 29,
+						"h": 26
+					},
+					"frame": {
+						"x": 214,
+						"y": 1,
+						"w": 29,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bee-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 27,
+						"h": 27
+					},
+					"frame": {
+						"x": 240,
+						"y": 29,
+						"w": 27,
+						"h": 27
+					}
+				},
+				{
+					"filename": "enemy-death-2-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 245,
+						"y": 1,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "gator-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 35,
+						"h": 35
+					},
+					"frame": {
+						"x": 269,
+						"y": 28,
+						"w": 35,
+						"h": 35
+					}
+				},
+				{
+					"filename": "enemy-death-2-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "enemy-death-1-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 23
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 26,
+						"h": 23
+					}
+				},
+				{
+					"filename": "slug-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 29,
+						"h": 17
+					},
+					"frame": {
+						"x": 306,
+						"y": 26,
+						"w": 29,
+						"h": 17
+					}
+				},
+				{
+					"filename": "slug-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 26,
+						"h": 17
+					},
+					"frame": {
+						"x": 306,
+						"y": 45,
+						"w": 26,
+						"h": 17
+					}
+				},
+				{
+					"filename": "slug-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 24,
+						"h": 18
+					},
+					"frame": {
+						"x": 334,
+						"y": 45,
+						"w": 24,
+						"h": 18
+					}
+				},
+				{
+					"filename": "enemy-death-2-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 329,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "star-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 337,
+						"y": 25,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "star-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 13
+					},
+					"frame": {
+						"x": 352,
+						"y": 25,
+						"w": 13,
+						"h": 13
+					}
+				},
+				{
+					"filename": "slug-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 24,
+						"h": 19
+					},
+					"frame": {
+						"x": 360,
+						"y": 40,
+						"w": 24,
+						"h": 19
+					}
+				},
+				{
+					"filename": "enemy-death-2-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 28,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 21,
+						"h": 21
+					},
+					"frame": {
+						"x": 353,
+						"y": 1,
+						"w": 21,
+						"h": 21
+					}
+				},
+				{
+					"filename": "star-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 11,
+						"h": 13
+					},
+					"frame": {
+						"x": 367,
+						"y": 24,
+						"w": 11,
+						"h": 13
+					}
+				},
+				{
+					"filename": "star-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 11,
+						"h": 13
+					},
+					"frame": {
+						"x": 376,
+						"y": 1,
+						"w": 11,
+						"h": 13
+					}
+				},
+				{
+					"filename": "star-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 13,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 7,
+						"h": 13
+					},
+					"frame": {
+						"x": 380,
+						"y": 16,
+						"w": 7,
+						"h": 13
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4e5d3f541ef2a1451e73e3787491ae69:27a94125f6e9f904ac0606f5b16a2e3b:4d7fa3aec0255005d53feab359e99c6b$"
+	}
+}

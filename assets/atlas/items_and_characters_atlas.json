@@ -1,0 +1,1217 @@
+{
+	"textures": [
+		{
+			"image": "items_and_characters_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 337,
+				"h": 128
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy-death-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 38,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 38,
+						"h": 40
+					}
+				},
+				{
+					"filename": "enemy-death-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 39,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 43,
+						"w": 39,
+						"h": 38
+					}
+				},
+				{
+					"filename": "eagle-attack-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 34,
+						"h": 40
+					},
+					"frame": {
+						"x": 41,
+						"y": 1,
+						"w": 34,
+						"h": 40
+					}
+				},
+				{
+					"filename": "enemy-death-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 36,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 83,
+						"w": 36,
+						"h": 36
+					}
+				},
+				{
+					"filename": "eagle-attack-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 37,
+						"h": 34
+					},
+					"frame": {
+						"x": 39,
+						"y": 83,
+						"w": 37,
+						"h": 34
+					}
+				},
+				{
+					"filename": "jump/frog-jump-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 42,
+						"y": 43,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "enemy-death-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 33,
+						"h": 33
+					},
+					"frame": {
+						"x": 77,
+						"y": 1,
+						"w": 33,
+						"h": 33
+					}
+				},
+				{
+					"filename": "jump/frog-jump-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 34,
+						"h": 31
+					},
+					"frame": {
+						"x": 78,
+						"y": 77,
+						"w": 34,
+						"h": 31
+					}
+				},
+				{
+					"filename": "cherry-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 19,
+						"h": 17
+					},
+					"frame": {
+						"x": 78,
+						"y": 110,
+						"w": 19,
+						"h": 17
+					}
+				},
+				{
+					"filename": "cherry-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 99,
+						"y": 110,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "item-feedback-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 79,
+						"y": 36,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "enemy-death-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 112,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "item-feedback-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 113,
+						"y": 33,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "eagle-attack-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 14,
+						"w": 33,
+						"h": 26
+					},
+					"frame": {
+						"x": 114,
+						"y": 66,
+						"w": 33,
+						"h": 26
+					}
+				},
+				{
+					"filename": "gem-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 13
+					},
+					"frame": {
+						"x": 114,
+						"y": 94,
+						"w": 15,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cherry-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 17,
+						"h": 17
+					},
+					"frame": {
+						"x": 119,
+						"y": 109,
+						"w": 17,
+						"h": 17
+					}
+				},
+				{
+					"filename": "cherry-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 17,
+						"h": 17
+					},
+					"frame": {
+						"x": 119,
+						"y": 109,
+						"w": 17,
+						"h": 17
+					}
+				},
+				{
+					"filename": "gem-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 13
+					},
+					"frame": {
+						"x": 131,
+						"y": 94,
+						"w": 15,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cherry-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 138,
+						"y": 109,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "cherry-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 138,
+						"y": 109,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "gem-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 13
+					},
+					"frame": {
+						"x": 148,
+						"y": 94,
+						"w": 15,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cherry-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 21,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 156,
+						"y": 109,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "eagle-attack-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 30,
+						"h": 27
+					},
+					"frame": {
+						"x": 145,
+						"y": 33,
+						"w": 30,
+						"h": 27
+					}
+				},
+				{
+					"filename": "opossum-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 30,
+						"h": 27
+					},
+					"frame": {
+						"x": 149,
+						"y": 62,
+						"w": 30,
+						"h": 27
+					}
+				},
+				{
+					"filename": "gem-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 13
+					},
+					"frame": {
+						"x": 165,
+						"y": 91,
+						"w": 15,
+						"h": 13
+					}
+				},
+				{
+					"filename": "opossum-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 36,
+						"h": 21
+					},
+					"frame": {
+						"x": 174,
+						"y": 106,
+						"w": 36,
+						"h": 21
+					}
+				},
+				{
+					"filename": "opossum-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 33,
+						"h": 24
+					},
+					"frame": {
+						"x": 146,
+						"y": 1,
+						"w": 33,
+						"h": 24
+					}
+				},
+				{
+					"filename": "item-feedback-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 28,
+						"h": 28
+					},
+					"frame": {
+						"x": 177,
+						"y": 27,
+						"w": 28,
+						"h": 28
+					}
+				},
+				{
+					"filename": "idle/frog-idle-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 33,
+						"h": 23
+					},
+					"frame": {
+						"x": 181,
+						"y": 1,
+						"w": 33,
+						"h": 23
+					}
+				},
+				{
+					"filename": "opossum-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 36,
+						"h": 21
+					},
+					"frame": {
+						"x": 181,
+						"y": 57,
+						"w": 36,
+						"h": 21
+					}
+				},
+				{
+					"filename": "opossum-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 34,
+						"h": 21
+					},
+					"frame": {
+						"x": 182,
+						"y": 80,
+						"w": 34,
+						"h": 21
+					}
+				},
+				{
+					"filename": "opossum-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 31,
+						"h": 23
+					},
+					"frame": {
+						"x": 212,
+						"y": 103,
+						"w": 31,
+						"h": 23
+					}
+				},
+				{
+					"filename": "idle/frog-idle-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 28,
+						"h": 21
+					},
+					"frame": {
+						"x": 218,
+						"y": 80,
+						"w": 28,
+						"h": 21
+					}
+				},
+				{
+					"filename": "idle/frog-idle-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 31,
+						"h": 22
+					},
+					"frame": {
+						"x": 245,
+						"y": 103,
+						"w": 31,
+						"h": 22
+					}
+				},
+				{
+					"filename": "idle/frog-idle-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 31,
+						"h": 22
+					},
+					"frame": {
+						"x": 245,
+						"y": 103,
+						"w": 31,
+						"h": 22
+					}
+				},
+				{
+					"filename": "hurt/player-hurt-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 27,
+						"h": 27
+					},
+					"frame": {
+						"x": 207,
+						"y": 26,
+						"w": 27,
+						"h": 27
+					}
+				},
+				{
+					"filename": "jump/player-jump-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 25,
+						"h": 23
+					},
+					"frame": {
+						"x": 219,
+						"y": 55,
+						"w": 25,
+						"h": 23
+					}
+				},
+				{
+					"filename": "idle/player-idle-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 23,
+						"h": 21
+					},
+					"frame": {
+						"x": 216,
+						"y": 1,
+						"w": 23,
+						"h": 21
+					}
+				},
+				{
+					"filename": "hurt/player-hurt-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 25,
+						"h": 28
+					},
+					"frame": {
+						"x": 236,
+						"y": 24,
+						"w": 25,
+						"h": 28
+					}
+				},
+				{
+					"filename": "crouch/player-crouch-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 241,
+						"y": 1,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "jump/player-jump-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 23,
+						"h": 24
+					},
+					"frame": {
+						"x": 246,
+						"y": 54,
+						"w": 23,
+						"h": 24
+					}
+				},
+				{
+					"filename": "crouch/player-crouch-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 248,
+						"y": 80,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "climb/player-climb-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 21,
+						"h": 26
+					},
+					"frame": {
+						"x": 263,
+						"y": 23,
+						"w": 21,
+						"h": 26
+					}
+				},
+				{
+					"filename": "enemy-death-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 265,
+						"y": 1,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "climb/player-climb-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 21,
+						"h": 26
+					},
+					"frame": {
+						"x": 271,
+						"y": 51,
+						"w": 21,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle/player-idle-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 21,
+						"h": 22
+					},
+					"frame": {
+						"x": 272,
+						"y": 79,
+						"w": 21,
+						"h": 22
+					}
+				},
+				{
+					"filename": "idle/player-idle-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 21,
+						"h": 22
+					},
+					"frame": {
+						"x": 272,
+						"y": 79,
+						"w": 21,
+						"h": 22
+					}
+				},
+				{
+					"filename": "run/player-run-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 8,
+						"w": 22,
+						"h": 24
+					},
+					"frame": {
+						"x": 278,
+						"y": 103,
+						"w": 22,
+						"h": 24
+					}
+				},
+				{
+					"filename": "climb/player-climb-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 21,
+						"h": 25
+					},
+					"frame": {
+						"x": 286,
+						"y": 23,
+						"w": 21,
+						"h": 25
+					}
+				},
+				{
+					"filename": "item-feedback-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 287,
+						"y": 1,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "idle/player-idle-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 294,
+						"y": 50,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "run/player-run-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 295,
+						"y": 75,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "run/player-run-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 302,
+						"y": 100,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "run/player-run-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 309,
+						"y": 1,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "gem-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 13
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 13
+					},
+					"frame": {
+						"x": 309,
+						"y": 26,
+						"w": 15,
+						"h": 13
+					}
+				},
+				{
+					"filename": "run/player-run-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 20,
+						"h": 23
+					},
+					"frame": {
+						"x": 316,
+						"y": 41,
+						"w": 20,
+						"h": 23
+					}
+				},
+				{
+					"filename": "run/player-run-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 19,
+						"h": 24
+					},
+					"frame": {
+						"x": 317,
+						"y": 66,
+						"w": 19,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3f179a41cbe44ecafe211bf670ec2c89:f2569e7f23719014745103bf9e45ea63:88aa34b046d36585c25466536e9e3b82$"
+	}
+}

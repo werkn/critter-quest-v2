@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "props.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 58,
+				"h": 133
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "big-crate.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "door.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 35,
+						"y": 1,
+						"w": 22,
+						"h": 33
+					}
+				},
+				{
+					"filename": "block-big.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "sign.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 18,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 18,
+						"h": 20
+					},
+					"frame": {
+						"x": 35,
+						"y": 36,
+						"w": 18,
+						"h": 20
+					}
+				},
+				{
+					"filename": "crank-up.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 22,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 17,
+						"h": 16
+					},
+					"frame": {
+						"x": 35,
+						"y": 58,
+						"w": 17,
+						"h": 16
+					}
+				},
+				{
+					"filename": "face-block.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "block.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 35,
+						"y": 76,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "crate.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 35,
+						"y": 94,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "platform-long.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "small-platform.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 35,
+						"y": 112,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "crank-down.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 22,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 19,
+						"h": 11
+					},
+					"frame": {
+						"x": 1,
+						"y": 121,
+						"w": 19,
+						"h": 11
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:218804fa4f3cb11bc5f4528a8177b843:698cd7fe8d55e64509a376f5ac779537:f4c39b94f5b79b4c461da96ae5609d50$"
+	}
+}
