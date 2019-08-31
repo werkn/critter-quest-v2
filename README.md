@@ -1,9 +1,9 @@
 ## Welcome to Critter Quest
 
-Critter Quest is a basic platformer created using Phaser3.
+This is the second version of Critter Quest, a basic platformer created using Phaser3.
 
-[Live Demo (Version 1)](https://werkn.github.io/critter-quest/)
-[Live Demo (Version 2)](https://werkn.github.io/critter-quest-v2/)
+ - [Live Demo (Version 1)](https://werkn.github.io/critter-quest/)
+ - [Live Demo (Version 2)](https://werkn.github.io/critter-quest-v2/)
 
 ### Screenshots
 
@@ -24,8 +24,7 @@ To install Critter Quest to a server running Apache 2 on Ubuntu follow these ins
 ### Game Overview
 
 Level overview and game walkthrough:
-
- - [Walkthrough](https://youtu.be/UGg3HrOG6Vo)
+ - [Walkthrough Playlist: Levels 1 - 15](https://youtu.be/UGg3HrOG6Vo)
 
 ### Tiled / Contributing Maps
 
