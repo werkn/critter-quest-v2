@@ -2,7 +2,8 @@
 
 Critter Quest is a basic platformer created using Phaser3.
 
-[Live Demo](https://werkn.github.io/critter-quest/)
+[Live Demo (Version 1)](https://werkn.github.io/critter-quest/)
+[Live Demo (Version 2)](https://werkn.github.io/critter-quest-v2/)
 
 ### Screenshots
 
