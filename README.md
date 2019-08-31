@@ -18,13 +18,20 @@ This is the second version of Critter Quest, a basic platformer created using Ph
 
 To install Critter Quest to a server running Apache 2 on Ubuntu follow these instructions:
 
- - [How to Install Critter Quest](https://youtu.be/b4rpffbao60)
+ - [How to Install Critter Quest](https://youtu.be/-qhKvXv37KE)
 
 
 ### Game Overview
 
-Level overview and game walkthrough:
- - [Walkthrough Playlist: Levels 1 - 15](https://youtu.be/UGg3HrOG6Vo)
+Level Overview and Game Walkthrough:
+ - [Walkthrough Playlist: Levels 1 - 15](https://www.youtube.com/playlist?list=PLE6vDOg2-DGBaBD1A8i-kQ-5zeSCxtqlT)
+ 
+### Source Overview
+
+Quick Overview of Source Code and Project Structure
+ - [Source Overview: Main Code Overview](https://youtu.be/BwUd_ctzVGw)
+ - [Source Overview: Players and Enemies](https://youtu.be/mpejROoIKIs)
+ - [Source Overview: All Other Classes / Code](https://youtu.be/3kirp5rqM_o)
 
 ### Tiled / Contributing Maps
 
