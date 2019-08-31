@@ -1,6 +1,6 @@
 ## Welcome to Critter Quest
 
-This is the second version of Critter Quest, a basic platformer created using Phaser3.
+This is the temporary home of v2 of Critter Quest which is essentially just the **experimental branch of `github.com/werkn/critter-quest`**.  After it's marked (for an assignment for university) it will move back too **`github.com/werkn/critter-quest` main branch**.
 
  - [Live Demo (Version 1)](https://werkn.github.io/critter-quest/)
  - [Live Demo (Version 2)](https://werkn.github.io/critter-quest-v2/)
